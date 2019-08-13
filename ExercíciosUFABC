@@ -1,0 +1,15 @@
+Exercício 03)
+
+//Script que irá relacionar os valores introduzidos pelo usuário e então quando o mesmo inserir algum número menor ou igual o 
+script irá retornar o maior valor
+
+var = 0 
+var1 = 1
+
+while var1 > 0:
+    var1 = int(input("Insert a value: "))
+    if var1 > var:
+       var = var1
+print("The biggest value is: {}".format(var))
+
+=================================================================================================================================
