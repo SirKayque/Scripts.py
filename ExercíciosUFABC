@@ -1,6 +1,28 @@
+
+Exercício 01)
+##Script que escolhe aleatoriamente um valor e o compara com a variável inserida pelo usuário:
+
+
+
+=================================================================================================================================
+
+Exercício 02)
+
+##Script que se iguala a funcionalidade do "For do SciLab":
+##for i=0:10:1000
+    ##printf("%d\n", i)
+        ##end
+
+i = 0
+
+while i < 1000:
+    i = i +1
+    print(i)
+
+=================================================================================================================================
 Exercício 03)
 
-//Script que irá relacionar os valores introduzidos pelo usuário e então quando o mesmo inserir algum número menor ou igual o 
+##Script que irá relacionar os valores introduzidos pelo usuário e então quando o mesmo inserir algum número menor ou igual o 
 script irá retornar o maior valor
 
 var = 0 
